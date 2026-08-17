@@ -52,3 +52,5 @@ no box was filled
 Name: Kareen Andrya S. Asetre
 
 Section: 8-Sampaguita
+
+Repository link: https://github.com/KareenAndrya/Long-Test-1-ComSci-2.git
