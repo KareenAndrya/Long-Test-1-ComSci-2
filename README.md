@@ -27,16 +27,23 @@ This program determines the number of boxes packed and the number of left over n
 If the number of notebooks is greater than the box capacity:
 
 Total number of notebooks:67
+
 How many can fit in a box:13
+
 the number of full boxes is 5
+
 the number of loose notebooks is 2
 
 If the number of notebooks is less than the box capacity:
 
 Total number of notebooks:9
+
 How many can fit in a box:10
+
 the number of full boxes is 0
+
 the number of loose notebooks is 9
+
 no box was filled
 
 ## Author
