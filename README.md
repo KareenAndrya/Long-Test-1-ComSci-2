@@ -34,6 +34,7 @@ the number of full boxes is 5
 
 the number of loose notebooks is 2
 
+
 If the number of notebooks is less than the box capacity:
 
 Total number of notebooks:9
